@@ -26,10 +26,19 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 
 ---
 
+### 🎖️ TryHackMe Status
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Saiansh" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Saiansh.png" alt="TryHackMe Badge"/>
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-brightgreen)](https://tryhackme.com/p/6699139)
-
-![SaianshVN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaianshVN&show_icons=true&hide_border=true&theme=github_light)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaianshVN&layout=compact&hide_border=true&theme=github_light)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-master-ysf3437.vercel.app/api?username=SaianshVN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-master-ysf3437.vercel.app/api/top-langs/?username=SaianshVN&layout=compact&theme=tokyonight&langs_count=8"/>
+</p>
