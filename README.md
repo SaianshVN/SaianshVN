@@ -33,12 +33,3 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
     <img src="https://tryhackme-badges.s3.amazonaws.com/Saiansh.png" alt="TryHackMe Badge"/>
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-ysf3437.vercel.app/api?username=SaianshVN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-master-ysf3437.vercel.app/api/top-langs/?username=SaianshVN&layout=compact&theme=tokyonight&langs_count=8"/>
-</p>
