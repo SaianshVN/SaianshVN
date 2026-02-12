@@ -5,7 +5,7 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 ---
 
 ### 🧐 More About Me
-- 👋🏻 Hi, I’m Saiansh  
+- 👋🏻 Hi, I'm Saiansh  
 - 👀 I'm pursuing BCA in Cybersecurity.  
 - 🌱 Currently learning Java and C programming languages.  
 - 📖 I have basic knowledge of Python and have also learnt basic DBMS software commands.  
@@ -28,8 +28,8 @@ An IT and Cybersecurity Enthusiast with keen interest in the vast world of techn
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6699139" style='border:none;'></iframe>
-  <img src="https://github-readme-stats.vercel.app/api?username=SaianshVN&show_icons=true&hide_border=true&theme=github_light" alt="SaianshVN's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaianshVN&layout=compact&hide_border=true&theme=github_light" alt="Top Languages" height="150"/>
-</p>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-brightgreen)](https://tryhackme.com/p/6699139)
+
+![SaianshVN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaianshVN&show_icons=true&hide_border=true&theme=github_light)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaianshVN&layout=compact&hide_border=true&theme=github_light)
