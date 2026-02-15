@@ -1,6 +1,6 @@
 ## Hi, I'm Saiansh!
 
-An IT and Cybersecurity Enthusiast with keen interest in the vast world of technology. I have proficiency in coding languages like Core Java and Core C, and basic knowledge of Python and HTML. Experience gained in configuring Linux environments and beginner-level understanding of multiple Linux terminal commands.
+An IT and Cybersecurity Enthusiast with keen interest in the vast world of technology. I have proficiency in coding languages like Java and C, and basic knowledge of Python and HTML. Experience gained in configuring Linux environments, operating systems and beginner-level understanding of multiple Linux terminal commands. I've recently learned working on Development Boards like the NodeMCU and built a Smart Streetlight Project using the same (code uploaded on my GitHub).
 
 ---
 
