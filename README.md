@@ -63,7 +63,7 @@ I'm still early in this — mostly learning the fundamentals, working through la
 
 <div align="center">
 
-[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/Saiansh.png)](https://tryhackme.com/p/Saiansh)
+[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/Saiansh.png?v=1)](https://tryhackme.com/p/Saiansh)
 </div>
 
 ---
