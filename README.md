@@ -15,30 +15,31 @@
 
 ### 🛡️ About Me
 
-I'm a cybersecurity student currently navigating the vast world of infosec with a specific interest in **Blue Teaming** and defensive security. When I'm not in a lab environment, you can usually find me tinkering with Linux systems—currently daily-driving Fedora Silverblue with a Wayland/Niri compositor setup—or experimenting with hardware and IoT microcontrollers. 
+I'm a cybersecurity student currently navigating the vast world of infosec with a specific interest in **Blue Teaming** and defensive security. When I'm not in a lab environment, you can usually find me tinkering with Linux systems — currently daily-driving Fedora Silverblue with a Niri compositor setup — or experimenting with IoT microcontrollers. 
 
 - 🎓 Pursuing BCA in Cybersecurity 
-- 🌍 Planning ahead for an MS in Cybersecurity abroad
 - 💡 Exploring everything from defensive security to immutable Linux filesystems
 
 <br />
 
 ### 📊 Learning Roadmap & Progress
 
-As a student, I prefer tracking my progress rather than claiming mastery. Here is a snapshot of my current learning journey:
+As a student, I prefer tracking my progress rather than claiming mastery. Here is a preview of my current learning journey:
 
-**TryHackMe Journey (Active)**
-> 🎯 Maintained a 180+ day continuous learning streak covering network scanning, recon, and foundational defensive concepts. 
+**TryHackMe Journey (Active)** 
+
+> 🎯 Maintained a **180+ day continuous learning streak** covering network scanning, recon, and foundational defensive concepts. 
 
 **Knowledge Areas**
 <br/>
-Blue Teaming Fundamentals & Detection <br/>
+1) Blue Teaming Fundamentals & Detection <br/>
 <progress value="65" max="100" style="width: 300px;"></progress>
-<br/>
-Linux System Administration & Customization <br/>
+
+2) Linux System Administration & Customization <br/>
 <progress value="80" max="100" style="width: 300px;"></progress>
-<br/>
-Hardware / IoT Security Exploration <br/>
+
+
+3) Hardware / IoT Security Exploration <br/>
 <progress value="45" max="100" style="width: 300px;"></progress>
 
 <br />
@@ -48,9 +49,10 @@ Hardware / IoT Security Exploration <br/>
 <p align="left">
   <img src="https://img.shields.io/badge/Fedora-2F4153?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Nmap-007ba7?style=for-the-badge&logo=nmap&logoColor=black" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-ffffff?style=for-the-badge&logo=wireshark&logoColor=blue" alt="Wireshark" />
 </p>
 
 <br />
@@ -65,7 +67,7 @@ Hardware / IoT Security Exploration <br/>
 
 | Project / Role | Description | Tech / Focus |
 | :--- | :--- | :--- |
-| **AutoLightIQ** | An IoT-based automated management system utilizing NodeMCU microcontrollers. Presented at the PNT Labs Expo. | `IoT`, `Hardware`, `Microcontrollers` |
+| **AutoLightIQ** | An IoT-based automated management system utilizing NodeMCU microcontrollers. Presented at the PNT Labs Expo 2025 held at Jain University Bangalore. | `IoT`, `Hardware`, `Microcontrollers` |
 | **1M1B Green Internship** | Completed partnership with AICTE and Salesforce, developing a green habit tracker project. | `Development`, `Sustainability` |
 | **Homelab & Configs** | Ongoing documentation of my immutable Linux configurations, Niri tiling manager setups, and device jailbreaking notes. | `Linux`, `Wayland`, `Tinkering` |
 
