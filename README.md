@@ -1,71 +1,87 @@
-# Prompt: Enhance My GitHub Profile README with Cybersec Inspiration
+<div align="center">
 
-## About Me
-I'm **Saiansh** (GitHub: `SaianshVN`), a BCA Cybersecurity student currently exploring **blue teaming** (detection & defense). I run Fedora Silverblue with Niri/Wayland compositor and enjoy Linux customization. I'm still learning — not a professional, just a curious student.
+<!-- Animated Typing SVG Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=>_Hello,+I'm+Saiansh;>_BCA+Cybersecurity+Student;>_Exploring+Blue+Teaming+%26+Defense;>_Fedora+Silverblue+%2B+Niri+Enthusiast" alt="Typing SVG" />
+</a>
 
-## Current README Status
-My GitHub profile README is currently minimal and clean, but I want it to be **more visually interesting and modern** while keeping a futuristic aesthetic. Right now it has:
-- Basic about section (modest student tone)
-- Learning areas table
-- Tech stack badges
-- TryHackMe badge (leave this as-is, don't modify it)
-- Pinned projects table
-- GitHub stats
+<p align="center">
+  <em>A curious cybersecurity student focused on detection, defense, and understanding how things work under the hood. Not a master yet, just enjoying the learning process.</em>
+</p>
 
-## What I'm Looking For
+</div>
 
-### Visual Inspiration
-Find and analyze 3-5 **really cool GitHub READMEs from cybersecurity students/professionals** that have:
-- **Animations or GIFs** (loading animations, typing effects, moving visuals, etc.)
-- **Progress trackers** (learning roadmaps, skill progression, challenge completion bars)
-- **Creative layouts** (not just tables — interesting card designs, timelines, visual dividers)
-- **Futuristic aesthetic** (sleek, modern, tech-forward feel without being overdone)
-- **Student-appropriate tone** (genuine, not overselling skills)
+<br />
 
-Examples of what to search for on GitHub:
-- "cybersecurity readme animated"
-- "blue team github profile"
-- "infosec student github readme"
-- "penetration tester github portfolio"
+### 🛡️ About Me
 
-### What to Create
-Based on those inspirations, redesign my README to include:
-1. **Animated/dynamic elements** where possible (CSS, SVG, or GIF-based)
-2. A **progress tracker** for my blue-teaming learning journey (e.g., skills acquired, areas explored, certifications/badges earned)
-3. **Better visual hierarchy** — make it scannable and visually interesting
-4. Keep the **minimal clean aesthetic** (no clutter, no neon spam)
-5. Maintain **honest student framing** (exploring, learning, not claiming mastery)
-6. Keep my **TryHackMe badge URL exactly as-is** — don't try to fix or change it
+I'm a cybersecurity student currently navigating the vast world of infosec with a specific interest in **Blue Teaming** and defensive security. When I'm not in a lab environment, you can usually find me tinkering with Linux systems—currently daily-driving Fedora Silverblue with a Wayland/Niri compositor setup—or experimenting with hardware and IoT microcontrollers. 
 
-### Sections to Keep/Enhance
-- About section (honest, modest)
-- What I'm exploring (blue team areas)
-- Currently learning
-- Tech stack badges
-- **TryHackMe badge** (leave unchanged)
-- Pinned work / projects
-- GitHub stats
+- 🎓 Pursuing BCA in Cybersecurity 
+- 🌍 Planning ahead for an MS in Cybersecurity abroad
+- 💡 Exploring everything from defensive security to immutable Linux filesystems
 
-### Sections to Add/Improve
-- A visual **learning progress tracker** (could be a simple progress bar, checklist visual, or timeline of areas I'm exploring)
-- **Animated visual dividers or section headers** (ASCII art, SVG lines, GIFs, or CSS animations)
-- Maybe a **"Recently Explored" section** highlighting recent labs/challenges (if relevant)
+<br />
 
-## Tone & Constraints
-- **Student-level honest** — not overselling, genuine curiosity
-- **Futuristic** but not tacky (sleek, clean lines, modern design)
-- **Markdown + HTML** compatible (GitHub profile README must render in standard markdown/HTML)
-- **No external dependencies** that might break (keep it simple enough that it still works if external CDNs go down)
-- **Mobile-friendly** (should look good on phones too)
+### 📊 Learning Roadmap & Progress
 
-## Deliverable
-Create a complete, ready-to-paste README.md file that:
-- Includes all the suggested cool elements from real cybersec profiles
-- Maintains my current content/structure
-- Adds animations, progress tracking, and visual interest
-- Keeps the futuristic, minimal aesthetic
-- Is honest to my student-level experience
+As a student, I prefer tracking my progress rather than claiming mastery. Here is a snapshot of my current learning journey:
 
----
+**TryHackMe Journey (Active)**
+> 🎯 Maintained a 90+ day continuous learning streak covering network scanning, recon, and foundational defensive concepts. 
 
-**Note:** I specifically want you to research real examples on GitHub first, so the inspiration is authentic and actually works in practice. Then apply those patterns to my profile.
+**Knowledge Areas**
+<br/>
+Blue Teaming Fundamentals & Detection <br/>
+<progress value="65" max="100" style="width: 300px;"></progress>
+<br/>
+Linux System Administration & Customization <br/>
+<progress value="80" max="100" style="width: 300px;"></progress>
+<br/>
+Hardware / IoT Security Exploration <br/>
+<progress value="45" max="100" style="width: 300px;"></progress>
+
+<br />
+
+### 💻 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Fedora-2F4153?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+<br />
+
+### 🏆 TryHackMe
+
+<!-- YOUR TRYHACKME BADGE HERE - DO NOT MODIFY -->
+<!-- Paste your existing TryHackMe badge URL/Markdown exactly as-is below this line -->
+
+<br />
+
+### 📂 Pinned Projects & Experience
+
+| Project / Role | Description | Tech / Focus |
+| :--- | :--- | :--- |
+| **AutoLightIQ** | An IoT-based automated management system utilizing NodeMCU microcontrollers. Presented at the PNT Labs Expo. | `IoT`, `Hardware`, `Microcontrollers` |
+| **1M1B Green Internship** | Completed partnership with AICTE and Salesforce, developing a green habit tracker project. | `Development`, `Sustainability` |
+| **Homelab & Configs** | Ongoing documentation of my immutable Linux configurations, Niri tiling manager setups, and device jailbreaking notes. | `Linux`, `Wayland`, `Tinkering` |
+
+<br />
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaianshVN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaianshVN&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <sub><i>"The only true wisdom is in knowing you know nothing."</i> — Always learning.</sub>
+</div>
