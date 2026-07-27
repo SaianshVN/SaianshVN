@@ -74,9 +74,9 @@ Hardware / IoT Security Exploration <br/>
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SaianshVN&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=SaianshVN&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=swift)" />
+  <img src="[[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SaianshVN&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=SaianshVN&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=SaianshVN&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=swift)" />
   <br/>
-  <img src="[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SaianshVN&langs_count=8&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=SaianshVN&langs_count=8&theme=swift)" />
+  <img src="[[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SaianshVN&langs_count=8&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=SaianshVN&langs_count=8&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=SaianshVN&langs_count=7&theme=swift)" />
 </div>
 
 <br />
