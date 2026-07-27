@@ -75,12 +75,11 @@ Hardware / IoT Security Exploration <br/>
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=SaianshVN&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=swift" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SaianshVN&langs_count=8&theme=swift" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <sub><i>"The only true wisdom is in knowing you know nothing."</i> — Always learning.</sub>
+  <sub><i>"The only true wisdom is in knowing you know nothing."</i></sub>
 </div>
