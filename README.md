@@ -2,7 +2,7 @@
 
 <!-- Animated Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=>_Hello,+I'm+Saiansh;>_BCA+Cybersecurity+Student;>_Exploring+Blue+Teaming+%26+Defense;>_Fedora+Silverblue+%2B+Niri+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=34&pause=900&color=F0E7DA&center=true&vCenter=true&width=800&lines=>_Hello,+I'm+Saiansh;>_BCA+Cybersecurity+Student;>_Exploring+Blue+Teaming+%26+Defense;>_Fedora+Silverblue+%2B+Niri+User!" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -28,7 +28,7 @@ I'm a cybersecurity student currently navigating the vast world of infosec with 
 As a student, I prefer tracking my progress rather than claiming mastery. Here is a snapshot of my current learning journey:
 
 **TryHackMe Journey (Active)**
-> 🎯 Maintained a 90+ day continuous learning streak covering network scanning, recon, and foundational defensive concepts. 
+> 🎯 Maintained a 180+ day continuous learning streak covering network scanning, recon, and foundational defensive concepts. 
 
 **Knowledge Areas**
 <br/>
@@ -57,8 +57,7 @@ Hardware / IoT Security Exploration <br/>
 
 ### 🏆 TryHackMe
 
-<!-- YOUR TRYHACKME BADGE HERE - DO NOT MODIFY -->
-<!-- Paste your existing TryHackMe badge URL/Markdown exactly as-is below this line -->
+<img width="906" height="517" alt="Screenshot from 2026-07-21 23-47-43" src="https://github.com/user-attachments/assets/f38ab01c-790e-4fe8-b281-4d8b42171763" />
 
 <br />
 
@@ -75,9 +74,9 @@ Hardware / IoT Security Exploration <br/>
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaianshVN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SaianshVN&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=SaianshVN&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=swift)" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaianshVN&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SaianshVN&langs_count=8&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=SaianshVN&langs_count=8&theme=swift)" />
 </div>
 
 <br />
