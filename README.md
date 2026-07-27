@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Animated Typing SVG Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=34&pause=900&color=F0E7DA&center=true&vCenter=true&width=800&lines=>_Hello,+I'm+Saiansh;>_BCA+Cybersecurity+Student;>_Exploring+Blue+Teaming+%26+Defense;>_Fedora+Silverblue+%2B+Niri+User!" alt="Typing SVG" />
-</a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=180&section=header&text=>_%20Hello,%20I'm%20Saiansh!&fontSize=32&fontColor=000000&fontAlignY=40&animation=twinkle" alt="Glowing Header" />
+</div>
 
 <p align="center">
   <em>A curious cybersecurity student focused on detection, defense, and understanding how things work under the hood. Not a master yet, just enjoying the learning process.</em>
@@ -75,6 +75,7 @@ Hardware / IoT Security Exploration <br/>
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=SaianshVN&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=swift" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SaianshVN&langs_count=8&theme=swift" alt="Top Languages" />
 </div>
 
