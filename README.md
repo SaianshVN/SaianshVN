@@ -13,25 +13,23 @@
 
 <br />
 
-### About Me
+# whoami?
 
-I'm a cybersecurity student currently navigating the vast world of infosec with a specific interest in **Blue Teaming** and defensive security. When I'm not in a lab environment, you can usually find me tinkering with Linux systems — currently daily-driving Fedora Silverblue with a Niri compositor setup — or experimenting with IoT microcontrollers. 
+I'm a cybersecurity student currently navigating the vast world of infosec with a specific interest in **Blue Teaming** and defensive security. When I'm not in a lab environment, you can usually find me tinkering with Linux systems — currently daily-driving **Fedora Silverblue** with a **Niri** compositor setup — or experimenting with IoT microcontrollers. 
 
-- Pursuing BCA in Cybersecurity 
-- Exploring everything from defensive security to immutable Linux filesystems
+- Pursuing **BCA in Cybersecurity** 
+- Exploring everything from **defensive security** to learning **immutable Linux filesystems**
 
 <br />
 
-### Learning Roadmap & Progress
+## Learning Roadmap & Progress
 
 As a student, I prefer tracking my progress rather than claiming mastery. Here is a preview of my current learning journey:
 
-**TryHackMe Journey (Active)** 
+### **TryHackMe Journey (Active)** <br/>
+🎯 Maintained a **180+ day continuous learning streak** covering network scanning, recon, and foundational defensive concepts. 
 
-> 🎯 Maintained a **180+ day continuous learning streak** covering network scanning, recon, and foundational defensive concepts. 
-
-**Knowledge Areas**
-<br/>
+### **Knowledge Areas** <br/>
 1) Blue Teaming Fundamentals & Detection <br/>
 <progress value="65" max="100" style="width: 300px;"></progress>
 
@@ -44,7 +42,7 @@ As a student, I prefer tracking my progress rather than claiming mastery. Here i
 
 <br />
 
-### Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Fedora-2F4153?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
@@ -57,13 +55,13 @@ As a student, I prefer tracking my progress rather than claiming mastery. Here i
 
 <br />
 
-### TryHackMe
+## TryHackMe
 
 <img width="906" height="517" alt="Screenshot from 2026-07-21 23-47-43" src="https://github.com/user-attachments/assets/f38ab01c-790e-4fe8-b281-4d8b42171763" />
 
 <br />
 
-### Pinned Projects & Experience
+## Pinned Projects & Experience
 
 | Project / Role | Description | Tech / Focus |
 | :--- | :--- | :--- |
@@ -73,7 +71,7 @@ As a student, I prefer tracking my progress rather than claiming mastery. Here i
 
 <br />
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=SaianshVN&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=swift" alt="GitHub Stats" />
