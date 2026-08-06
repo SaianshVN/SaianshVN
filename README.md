@@ -27,7 +27,7 @@ I'm a cybersecurity student currently navigating the vast world of infosec with 
 As a student, I prefer tracking my progress rather than claiming mastery. Here is a preview of my current learning journey:
 
 ### **TryHackMe Journey (Active)** <br/>
-🎯 Maintained a **180+ day continuous learning streak** covering network scanning, recon, and foundational defensive concepts. 
+Maintained a consistent **180+ day continuous learning streak** covering network scanning, recon, and foundational defensive concepts. 
 
 ### **Knowledge Areas** <br/>
 1) Blue Teaming Fundamentals & Detection <br/>
