@@ -6,7 +6,8 @@
 </div>
 
 <p align="center">
-  <em>A curious cybersecurity student focused on detection, defense, and understanding how things work under the hood. Not a master yet, just enjoying the learning process.</em>
+  <em>A curious cybersecurity student focused on detection, defense, and understanding how things work under the hood. <br/>
+    Not a master yet, just enjoying the learning process.</em>
 </p>
 
 </div>
