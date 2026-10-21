@@ -2,7 +2,7 @@
 
 <!-- Animated Typing SVG Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=180&section=header&text=>_%20Hello,%20I'm%20Saiansh!&fontSize=38&fontColor=000000&fontAlignY=40&animation=twinkle" alt="Glowing Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000000&section=header&reversal=true&text=%3E_++Hello+I%27m+Saiansh%21&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=40&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
 </div>
 
 <p align="center">
